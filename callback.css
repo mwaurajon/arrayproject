@@ -1,0 +1,41 @@
+h1{
+    font-family: cursive;
+    font-weight: bolder;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+#order-form{
+    align-items:center ;
+    margin-left: 30%;
+    border: 1px solid black;
+    width: 330px;
+    border-radius: 10px;
+    background-color: aqua;
+    height: 200px;
+}
+.name{
+    margin: 5px;
+}
+input{
+    margin: 15px;
+    font-weight: bolder;
+    font-style: cursive;
+}
+select{
+    margin: 15px;
+    align-items: center;
+    margin-left: 15%;
+}
+button{
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+    margin-top: 18%;
+    background-color: crimson;
+    padding: 5px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: lime;
+}
